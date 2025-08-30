@@ -47,7 +47,7 @@ Unknown face → ❌ Displays "Unknown".
 Improve accuracy with deep learning models
 Add attendance system feature
 Create a GUI interface
-
+    
 👤 Author
 Bhoobesh
 GitHub: Bhoobesh1
