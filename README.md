@@ -5,7 +5,7 @@ This project uses Python, OpenCV, and the face_recognition library to detect and
 Detect faces from images and webcam
 Recognize known faces by comparing encodings
 Store and organize face data in folders
-Simple and beginner-friendly implementation
+Simple and beginner-friendly implementation  
 
 🛠️ Technologies Used
 Python 3.x
